@@ -2,8 +2,7 @@
 
 ### 🔹 Frontend Development  
 - **Languages**: JavaScript (ES6+), HTML5, CSS3  
-- **Libraries & Frameworks**: React.js, Framer Motion (for animations)  
-- **UI/UX Design**: Visily (for wireframing and prototyping)  
+- **Libraries & Frameworks**: React.js, Framer Motion (for animations)    
 - **State Management**: React Context API  
 
 ### 🔹 Backend Development (Learning)  
@@ -19,7 +18,6 @@
 - **Deployment & Hosting**: Vercel, Render, Netlify  
 
 ### 🔹 Additional Skills  
-- **Chatbot Integration**: AI-powered book recommendation chatbot  
 - **E-commerce Development**: Product & genre management, payment gateway integration (learning Stripe/PayPal)  
 - **Performance Optimization**: Lazy loading, code splitting, caching strategies  
 
