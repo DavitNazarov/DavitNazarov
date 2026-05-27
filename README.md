@@ -38,7 +38,7 @@
 
 I'm an 18-year-old developer from Tbilisi. I build production-oriented web applications — not tutorial clones.
 
-Currently a **Junior Front-End Developer at SoftGen Group**. Starting **BSc IT & Network Engineering at FH Kärnten, Austria** in September 2026.
+last job position - a **Junior Front-End Developer at SoftGen Group**. Starting **BSc IT & Network Engineering at FH Kärnten, Austria** in September 2026.
 
 My flagship project is a **competition management platform deployed and actively used by the Georgian Wushu Federation** — live bracket management, real-time match scoring via WebSockets, admin dashboards, and tournament lifecycle automation.
 
@@ -115,7 +115,7 @@ React application connected to live TMDB data, full authentication flows, **real
 `React 19` `Vite` `Express` `MongoDB` `Socket.IO` `Google Gemini` `TMDB API` `Tailwind CSS`
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DavitNazarov/movie-hub)
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_MOVIEHUB_URL)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://moviehubs.cc)
 
 ---
 
