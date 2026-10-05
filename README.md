@@ -36,14 +36,15 @@
 
 ---
 
-I'm an 18-year-old developer from Tbilisi. I build production-oriented web applications — not tutorial clones.
-
-last job position - a **Junior Front-End Developer at SoftGen Group**. Starting **BSc IT & Network Engineering at FH Kärnten, Austria** in September 2026.
-
-My flagship project is a **competition management platform deployed and actively used by the Georgian Wushu Federation** — live bracket management, real-time match scoring via WebSockets, admin dashboards, and tournament lifecycle automation.
-
-I also train and compete full-time. I'm a **European Wushu Champion** *(19th European Championships, 60 kg Light Sanda, Gold, 2024)*. The same habits that win competitions — structured preparation, consistency under pressure, no wasted reps — are the ones I bring to software.
-
+I'm a 18-year-old full-stack developer from Georgia with about 2 years of experience building real-world web
+Applications — from a social movie platform with AI recommendations to a live tournament management system
+used by the Georgian Wushu Federation. I work across the full stack and I care deeply about writing clean,
+maintainable code that actually solves problems.
+Currently studying in FH Kärnten. I am looking to keep growing through challenging, meaningful work. I am responsible,
+Hard worker and reliable. I might not be the most educated or experienced guy, however when things get harder or
+when I am under huge stress, I think of only one thing - how to solve the problem rather than giving up.
+Besides I am really enthusiastic fast learner and I love facing new things and solving problems.
+Being athlete gave me that qualities including discipline
 ---
 
 ## How I work
